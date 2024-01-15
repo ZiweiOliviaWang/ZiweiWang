@@ -1,4 +1,4 @@
 ---
 title: Music Works
-layout: post
+layout: home
 ---
