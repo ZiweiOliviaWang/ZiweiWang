@@ -5,7 +5,7 @@ layout: home
 
 
 ---
-title: Music Works
+title: MusicWorks
 layout: home
 ---
 
