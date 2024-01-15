@@ -4,7 +4,7 @@ layout: home
 ---
 
 
-<img src="photo.jpg" alt="My Image" title="My Image Title" width="300" height="200"/>
+<img src="photo.jpg" alt="My Image" title="My Image Title" width="200" height="130"/>
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
