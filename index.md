@@ -14,6 +14,8 @@ This is a *bare-minimum* template to create a Jekyll site that uses the [Just th
 
 - Ziwei(Olivia) Wang
 - M.S. in Computer Science (Washington University in St. Louis), B.A. in Computer Music (Communication University of China)
+- [CV](cv_ZiweiWang.pdf)
+- Family Member: Alpha Dog, Tom Cat
 
 
 
