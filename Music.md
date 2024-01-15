@@ -1,4 +1,4 @@
 ---
-title: Home
-layout: home
+title: Music Works
+layout: post
 ---
