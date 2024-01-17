@@ -1,5 +1,5 @@
 ---
-title: Technology
+title: 2. Computer Science
 layout: post
 order: 2
 ---
