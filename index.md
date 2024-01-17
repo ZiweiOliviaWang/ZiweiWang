@@ -8,3 +8,5 @@ order: 1
 
 - Ziwei(Olivia) Wang
 - [CV](cv_ZiweiWang.pdf)
+- [Computer Science Experience](https://ziweioliviawang.github.io/ZiweiWang/CS.html)
+- [Music Experience](https://ziweioliviawang.github.io/ZiweiWang/Music.html)
