@@ -1,5 +1,5 @@
 ---
-title: 3. Music Works
+title: Music
 layout: post
 order: 3
 ---
