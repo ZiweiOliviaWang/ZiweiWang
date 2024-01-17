@@ -1,6 +1,7 @@
 ---
 title: CS Experience
 layout: post
+order: 2
 ---
 
 # Courses taken
