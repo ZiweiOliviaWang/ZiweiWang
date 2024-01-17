@@ -26,4 +26,4 @@ order: 3
 - [Whisper](https://youtu.be/HMLTKPxH37Y)
 
 
-# Project List
+# Projects
