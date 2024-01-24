@@ -8,14 +8,14 @@ order: 2
 
 - Introduction to Machine Learning
 - Machine Learning
-- Natural Language Processing - [Project]()
+- Natural Language Processing - [Project](https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/pdf_attachment/file/134019339/CSE_527A_Final_Paper.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOWYU6YNR4O%2F20240124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240124T224702Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIHCcZVLcCg6eIls8ZpnsP6SVxSxnT9SMQWM0dq7IZhfcAiEA52i1Gndaxrn%2Fb1N7YiP0Ayi7nbYWjsinPByQp%2BwsfqoquQUIfxAAGgw0MDU2OTkyNDkwNjkiDFSu3%2FKefbDtoqeZNyqWBTecz31BjlYdFCYsA%2By7cgRYZwNToIz31%2BIOUrwtO7J2gjeNnV7rHwSxC4LgLP9o3HxJ8I8S%2Fd36Uqed2dIH4xfR6RtkBY4MSNIf%2Bs5qDHKJ0MxtdOQnaHDvkgR%2F4WQGBJVBHFhJyd6v8xUFx%2Fbxiiveacj4fyQezlKzcNo9lOjJAswVCJcXAGJYHgtUeqpv8DEo08fTlazzha%2Fqht%2FHDtz9arzNizn9DXf7rLGA5xT7RNJjlv72yTSpCoKyyddmqYkekJoz%2B%2FZTq%2FRMI7Ac%2Fujy118zDUlgDj4jpRAzesktQzmaGbRYyGPbNUecNFtAV8UrOAptYlAPEnJpgOcPSnre4YLofywSFGbnu1SJ2Xw%2BXkpv2RQ1Cj3a9beUIwYmnLEQY2agBymkFsVBx8cbbl%2FWyUAYVScLM7wBZayuEv4bGAMTw1LQRJy2fhT7nqm%2BMcVOtIsq2VXggr5BZQ6mIryZsTxwuWJi8UKH8r1ljvD%2Fob9QBqc7LKTQDLNxg859X2IwPDppMy4SZWCqMyBI830C%2BL6gV6tD4E2jamDZQioJNIc4KjBthJSdaPYEDPWHYSLPecbEL3p%2BoGIS5LiwNaI2ge4%2F%2F3U1r0ye20rlLc63PelKxbiGiNcO5%2FS3g8i9mgghsWHbzBNrZXHP6qxmguFzEGa1unwkZYW5L1Gig%2FepAbTA0ArvW%2BT7qR8Ug3SnmwSS2GPuEBPSk4X2MO4V5tUgYbGQJ7tOeBhGhFf7inkW4QVy372i%2Bee5LoDZ3pQ93tf8IKxEwo7qzD%2BNq0p3ksWZp9xnMm7x5APy9AqYnYtP0Zkv%2FZ%2Bk39Tivq82BgvCf5s2q488VrZetrRzX0RWf%2FHmlSpBi2rSj73NFbsFgeEja6kjn7P5MNGMxq0GOrEBCRdQa4pS23Kbdp3tk1l9eSMriVs5JnTvMzDGIe%2BLQw%2FsdIkUvV9lPGURouQdmI2DTJXOfdaU%2B%2FdqgbiJHecZAe5BDyQ9gJGeZ9t0W0RVpyBY5xYNr6BKgPsPSbsl%2Bijx2may3F4qiNPwzVvx7wmRVh%2FHzbuqAXhIWtnbtyGFSs8UZWH1MdLyVrXkZpT8HIx1GzFfbV78lI6jHQ2kmiY69ado0irHyd0tm9LYu%2BzNS4%2FT&X-Amz-SignedHeaders=host&X-Amz-Signature=7d938e66b92e2e634d4eb63dd9e4570ddf5d67a9bfb7d6a5eb294cc12b8c7658)
 - Algorithms for Nonlinear Optimization
 - Data Mining
 - Introduction to Artificial Intelligence
 - Analysis of Network Data
 - Rapid Prototype Development
 - Data Structures and Algorithm		
-- Computational Models of Music Theory and Cognition - [Project](/Users/wangziwei/Documents/GitHub/ZiweiWang/ComputationalMusicTheory_project.png)
+- Computational Models of Music Theory and Cognition - [Project](ComputationalMusicTheory_project.png)
 - Matrix Algebra
 - Probability
 
