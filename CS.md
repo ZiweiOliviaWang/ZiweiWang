@@ -29,6 +29,6 @@ This project focuses on the development of a comprehensive course unit dedicated
 [Project Report](MasterProjectReport_ZiweiWang.pdf)
 
 ## YUEZHI (HugeHead Co.)
-Music generation application research and development
+Music generation application
 
 [Demonstration vedio](https://youtu.be/NoKRS5yijaY?si=yKtQlCv62vVOvlgb)
