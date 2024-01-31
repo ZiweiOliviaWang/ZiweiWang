@@ -31,14 +31,19 @@ order: 3
 • Music composition for documentaries, TV series, and movies The Grand Canal (2016), The History of
 Chinese Diplomacy (2019), Dr Chin: Medical Examiner (2016), The Wanderer (2017), Dear Us (2019), One
 Night in the Mountain (2016), Hailongtun (2017).
-• MusicproductionforalbumsGreen(2020)andYellow(2017)inmusicbrandRainbowwhichreachedthetop
+
+• Music production for albums Green(2020)and Yellow(2017)in music brand Rainbow which reached the top
 of music service provider rankings after release
-• Music composition and production for BYD car company new energy vehicles HAN
-concept video and advertisement (2020); Mother & Baby brand Meigaoyou advertisement (2018)
+
+• Music composition and production for BYD car company new energy vehicles HAN concept video and advertisement (2020); Mother & Baby brand Meigaoyou advertisement (2018)
+
 • Music production and sound design for Taiyuan Subway official promotional film (2020); 3rd International
 Intelligent Logistics Summit promotional film (2019); Nantong University official promotional film (2017)
-• MusiccompositionandproductionforvideogamesLonelyTrip(2018);ButterfliesintheValleyoftheMagic
+
+• Music composition and production for video games LonelyTrip(2018);Butterflies in the Valley of the Magic
 Statue (2016)
+
 • Music composition and production for animations Niunaitang No.23 (2018); Tales of the Mountain (2017);
 Dragon (2016)
+
 • Sound design for Mobile fitness app KEEP (2018); Smart intercom Xiaohu (2017)
