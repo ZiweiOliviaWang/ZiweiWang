@@ -26,7 +26,7 @@ order: 3
 - [Whisper](https://youtu.be/HMLTKPxH37Y)
 
 
-# Projects
+# Projects List
 
 • Music composition for documentaries, TV series, and movies The Grand Canal (2016), The History of
 Chinese Diplomacy (2019), Dr Chin: Medical Examiner (2016), The Wanderer (2017), Dear Us (2019), One
